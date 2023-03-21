@@ -1,8 +1,8 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/Yaw25df1mAs
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1pFYTAGdsKhzigxU9GnnasPzWoFUUhbzecbi8xcYMHCc/edit?usp=sharing
 
 Paper title:
 Deep Learning Based Approach For Detecting Suicidal Ideation in
