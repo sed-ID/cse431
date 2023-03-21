@@ -1,18 +1,18 @@
-Overleaf link with edit access to ST, RA and my gmail.
-httpswww.overleaf.com1567637586srnbbfftmyjg
+Link to unlisted YouTube video:
+https://youtube.com/.....
 
-Link to unlisted YouTube video
-httpsyoutu.be9AEkSPzgkHU
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/.....
 
-Public link to the slide (Anyone on the internet can view without login)
-httpsdocs.google.compresentationd1liINW06QCB3nJw4Umsh8QJQd3nVjiWEiLMOZHarBNnkeditusp=sharing
+Paper title:
+Deep Learning Based Approach For Detecting Suicidal Ideation in
+Code-Mixed Hindi-English: Baseline and Corpus
 
-Project title
-Analyzing Suicidal Ideation in Online Communities using FNet and Natural Language Processing Techniques
+Link to the paper:
+https://aclanthology.org/2021.icon-main.14/
 
-Group Number
+Group Number:
 15
 
+Individual Submitter:
 19101296 Sadid Islam
-19301010 Mubashira Rahman
-20101004 Riead Hasan Khan
