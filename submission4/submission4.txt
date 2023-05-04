@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 
 
 Paper title:
-Analyzing Suicidal Ideation in Online Communities using FNet and Natural Language Processing Techniques
+Analyzing Suicidal Ideation in Online Communities using Natural Language Processing Techniques
 
 Paper presentation (anyone can view without login):
 
