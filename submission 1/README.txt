@@ -1,0 +1,18 @@
+Overleaf link with edit access to ST, RA and my gmail.
+https://www.overleaf.com/1567637586srnbbfftmyjg
+
+Link to unlisted YouTube video:
+https://youtu.be/9AEkSPzgkHU
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1liINW06QCB3nJw4Umsh8QJQd3nVjiWEiLMOZHarBNnk/edit?usp=sharing
+
+Project title:
+Analyzing Suicidal Ideation in Online Communities using Natural Language Processing Techniques
+
+Group Number:
+15
+
+19101296 Sadid Islam
+19301010 Mubashira Rahman
+20101004 Riead Hasan Khan
