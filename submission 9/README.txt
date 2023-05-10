@@ -1,18 +1,30 @@
-Overleaf link with edit access to ST, RA and my gmail.
-https://www.overleaf.com/1567637586srnbbfftmyjg
+attended the ITEE exam
 
-Link to unlisted YouTube video:
-https://youtu.be/9AEkSPzgkHU
+Completed coursera course using email
 
-Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1liINW06QCB3nJw4Umsh8QJQd3nVjiWEiLMOZHarBNnk/edit?usp=sharing
+Completed edx course using email
 
-Project title:
-Analyzing Suicidal Ideation in Online Communities using Natural Language Processing Techniques
+completed youtube video:
+http://youtube....
 
-Group Number:
-15
+completed book:
+http://book
 
+did project:
+
+
+did something else
+
+Research paper-Multilingual SMS Text Classification for Spam and
+Ham Detection using Natural Language Processing
+
+Research paper-Analyzing Suicidal Ideation in Online Communities
+using Natural Language Processing Techniques
+
+
+was active in slack:
+http://slack post URL1
+http://slack post URL2
+
+Submitter:
 19101296 Sadid Islam
-19301010 Mubashira Rahman
-20101004 Riead Hasan Khan
