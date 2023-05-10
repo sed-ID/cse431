@@ -19,10 +19,10 @@ Paper submission date (to workshop/conference):
 Paper submission ID: (received) from conference/workshop
 
 
-Conference Name:
+Conference Name: 2023 2nd Computer Applications and Technological Solutions Conference
 
 
-Conference URL:
+Conference URL: https://cats23.gust.edu.kw/?q=paper-submission 
 
 
 Group Number: 15
