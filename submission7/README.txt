@@ -10,7 +10,7 @@ Conference submitted paper / paper submission / login Link:
 Paper title:
 Analyzing Suicidal Ideation in Online Communities using Natural Language Processing Techniques
 
-Paper presentation (anyone can view without login):
+Paper presentation (anyone can view without login): https://edas.info/showPaper.php?m=1570913089 
 
 
 Paper submission date (to workshop/conference):5/11/2023
