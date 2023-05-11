@@ -19,10 +19,10 @@ Paper submission date (to workshop/conference):
 Paper submission ID: (received) from conference/workshop
 
 
-Conference Name: 2023 2nd Computer Applications and Technological Solutions Conference
+Conference Name: R10 HTC (Humanitarian Technology Conference) 2023
 
 
-Conference URL: https://cats23.gust.edu.kw/?q=paper-submission 
+Conference URL: https://www.r10htc2023.org/index.php?p=7&Title=Call%20for%20Papers  
 
 
 Group Number: 15
