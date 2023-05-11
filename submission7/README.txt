@@ -13,16 +13,16 @@ Analyzing Suicidal Ideation in Online Communities using Natural Language Process
 Paper presentation (anyone can view without login):
 
 
-Paper submission date (to workshop/conference):
+Paper submission date (to workshop/conference):5/11/2023
 
 
-Paper submission ID: (received) from conference/workshop
+Paper submission ID: #257 (1570913089): Analyzing Suicidal Ideation in Online Communities Using Natural Language Processing Techniques
 
 
-Conference Name: 2023 2nd Computer Applications and Technological Solutions Conference
+Conference Name: R10 HTC (Humanitarian Technology Conference) 2023
 
 
-Conference URL: https://cats23.gust.edu.kw/?q=paper-submission 
+Conference URL: https://www.r10htc2023.org/index.php?p=7&Title=Call%20for%20Papers  
 
 
 Group Number: 15
