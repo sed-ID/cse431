@@ -4,7 +4,7 @@ https://www.overleaf.com/1567637586srnbbfftmyjg
 Unlisted YouTube video:
 https://youtu.be/lZmeXRYKw-M
 
-Conference submitted paper / paper submission / login Link:
+Conference submitted paper / paper submission / login Link: https://edas.info/showPaper.php?m=1570913089 
 
 
 Paper title:
