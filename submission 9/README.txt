@@ -1,4 +1,4 @@
-attended the ITEE exam
+Registered for the ITEE exam
 
 Completed coursera course using email
 
