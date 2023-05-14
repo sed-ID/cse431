@@ -5,7 +5,9 @@ Completed coursera course using email
 Completed edx course using email
 
 completed youtube video:
-http://youtube....
+https://www.youtube.com/watch?v=tpCFfeUEGs8&ab_channel=DanielBourke 
+https://www.scaler.com/topics/nlp/ngrams-in-nlp/ 
+https://youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX 
 
 completed book:
 http://book
